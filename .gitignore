@@ -1,3 +1,6 @@
 # Visual Studio cache/options directory
 .vscode/
 build/
+
+# The files created after building the project
+CMakeUserPresets.json
